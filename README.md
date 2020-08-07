@@ -1,7 +1,7 @@
 # 项目描述
 该项目是一个 **"学生信息管理系统"** ，使用了**Java**和**MySQL**实现。
 
-English Version
+[English Version](https://github.com/Kexin-Tang/Student_Info_Sys/blob/master/README_EN.md)
 
 ----
 # 功能描述
